@@ -29,6 +29,7 @@ namespace Metotlar
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1);  // metot çağırma
             sepetManager.Ekle(urun2);
+
         }
     }
 }
